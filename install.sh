@@ -14,7 +14,7 @@ LICENSE_KEY="ahmadganteng"
 
 # Function to check license
 check_license() {
-    if [ "$LICENSE_KEY" == "ahmadganteng" ]; then
+    if [ "$LICENSE_KEY" == "ezgt" ]; then
         return 0
     else
         return 1
